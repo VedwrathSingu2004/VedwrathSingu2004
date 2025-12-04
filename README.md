@@ -84,30 +84,6 @@ I believe in continuous learning, teamwork, and building technology that creates
 
 ---
 
-### Featured Projects  
-
-#### **Instocks LMS**  
-> A learning management system with **AWS S3 video storage**, **CloudFront CDN**, **RazorPay integration**, and **role-based access**.
-
-#### **CourierDesk SaaS**  
-> End-to-end **Courier Management SaaS** platform built with **PHP** and **MySQL**, supporting workflow automation and analytics.
-
-#### **Nearby Automobile Parts Locator**  
-> Cloud-backed locator system with **RBAC**, **AWS-hosted MySQL**, and **secure APIs** for scalability.
-
-#### **Pre IAS Aurangabad Website**  
-> Modern, responsive portal built under **government design guidelines** for an educational institution.  
-> [preiasaurangabad.ac.in](https://preiasaurangabad.ac.in)
-
-#### **Greenfriend Pvt. Ltd Website**  
-> Corporate site with a clean UI/UX and optimized SEO performance.  
-> [greenfriend.co.in](https://greenfriend.co.in)
-
-#### **ML-based OCR & Translation System**  
-> Integrated **Python, TensorFlow, PyTorch, TesseractOCR, TTS**, and **Raspberry Pi** for multilingual OCR + translation.
-
----
-
 ### Awards & Certifications  
 - **Udemy Certificate** — Backend Development (Node.js, Express.js, MongoDB)  
 - **4th Place** — Eureka Business Model Pitching (District Level)  
