@@ -127,12 +127,3 @@ Competitive Programming • Photography • Colour Grading • World History •
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedwrath&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedwrath&theme=tokyonight" height="150"/>
-</p>
-
----
-
-<p align="center">“Technology is best when it brings people together.” — Matt Mullenweg</p>
